@@ -1,22 +1,22 @@
 {
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
+  "id": "text-case-converter",
+  "name": "Conversor de Caixa de Texto",
+  "author": "Toshi",
+  "repoUrl": "https://github.com/hitsu3r/remnote-text-case-converter",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "",
+  "description": "Toggle selected text between UPPERCASE and lowercase with Ctrl+Shift+U. Auto-detects current case and preserves all formatting (bold, italic, highlight).",
   "requestNative": false,
   "requiredScopes": [
     {
       "type": "All",
-      "level": "Read"
+      "level": "ReadCreateModifyDelete"
     }
   ]
 }
