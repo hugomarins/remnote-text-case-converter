@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
   "id": "text-case-converter",
-  "name": "Conversor de Caixa de Texto",
+  "name": "Text Case Converter",
   "author": "Toshi",
   "repoUrl": "https://github.com/hitsu3r/remnote-text-case-converter",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "theme": [],
   "enableOnMobile": false,
