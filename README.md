@@ -2,7 +2,7 @@
 
 A RemNote plugin that cycles selected text through three case styles with a single shortcut — just like **Shift+F3** in Microsoft Word.
 
-![Text Case Converter demo](public/text-case-converter.gif)
+![Text Case Converter demo](https://github.com/hugomarins/remnote-text-case-converter/blob/main/public/text-case-converter.gif)
 
 ---
 
