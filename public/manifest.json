@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "Toggle selected text between UPPERCASE and lowercase with Ctrl+Shift+U. Auto-detects current case and preserves all formatting (bold, italic, highlight).",
+  "description": "Cycles selected text through lowercase → Title Case → UPPERCASE with Shift+F3, just like Microsoft Word. Auto-detects the current case and preserves all rich-text formatting (bold, italic, highlight).",
   "requestNative": false,
   "requiredScopes": [
     {
